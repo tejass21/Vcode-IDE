@@ -1,0 +1,11 @@
+export const INDEX_BUILD_CHANNEL = "index:build";
+export const INDEX_SEARCH_CHANNEL = "index:search";
+export const INDEX_STATUS_CHANNEL = "index:status";
+export const INDEX_PROGRESS_CHANNEL = "index:progress";
+export const INDEX_ERROR_CHANNEL = "index:error";
+export const INDEX_GET_STATS_CHANNEL = "index:get-stats";
+export const INDEX_CLEAR_CHANNEL = "index:clear";
+export const INDEX_UPDATE_FILE_CHANNEL = "index:update-file";
+export const INDEX_REMOVE_FILE_CHANNEL = "index:remove-file";
+export const INDEX_CANCEL_CHANNEL = "index:cancel";
+export const INDEX_IS_INDEXING_CHANNEL = "index:is-indexing";
